@@ -1,0 +1,38 @@
+.jumbotron {
+  text-align: center;
+  color: white;
+  background-color: #b30000;
+}
+.jumbotron p {
+  font-style: italic;
+}
+#mfrface {
+  float: left;
+  padding: 6px;
+}
+#org-div {
+  text-align: center;
+}
+#etq-div {
+  text-align: center;
+}
+#coach-div {
+  text-align: center;
+}
+.bgred {
+  color: white;
+  background-color: #b30000;
+  text-align: center;
+  border-radius: 7px;
+  padding: 10px;
+}
+.bgblack {
+  color: white;
+  background-color: #222222;
+  text-align: center;
+  border-radius: 7px;
+  padding; 10px;
+}
+p.bgblack, a {
+  color: white;
+}
