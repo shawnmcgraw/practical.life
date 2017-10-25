@@ -10,14 +10,38 @@
   float: left;
   padding: 6px;
 }
+#descDiv {
+  margin-bottom: 20px;
+}
 #org-div {
   text-align: center;
+  /*margin: 20px;*/
+  padding-bottom: 40px;
+  background-image: url(../images/rowofclothes.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #etq-div {
   text-align: center;
+  /*margin: 20px;*/
+  padding-bottom: 40px;
+  background-image: url(../images/handshake.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #coach-div {
   text-align: center;
+  /*margin: 20px;*/
+  padding-bottom: 40px;
+  background-image: url(../images/marinedi.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#foot-div {
+  margin: 20px;
 }
 .bgred {
   color: white;
@@ -35,4 +59,10 @@
 }
 p.bgblack, a {
   color: white;
+}
+.whitetxt {
+  color: white;
+}
+.seperator {
+  background-color: #222222;
 }
